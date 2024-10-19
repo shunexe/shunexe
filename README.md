@@ -1,8 +1,9 @@
 <h1>Hi 👋, I'm Shunsuke Hioki</h1>
 <p>A passionate cloud architect and full-stack developer from Japan</p>
 <h2>Stats</h2>
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shunexe&show_icons=true&locale=en" alt="shunexe" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shunexe&" alt="shunexe" />
-
+</div>
 <h2>🚀 Languages and Tools I Use</h2>
 <h3>Languages</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
